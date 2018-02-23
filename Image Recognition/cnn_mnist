@@ -1,0 +1,20 @@
+#!/bin/bash
+
+# cnn_mnist
+
+#
+# Fill in the empty line below with the command or commands that run your
+# program.
+#
+#   If you are having difficulty getting the script to run your program, talk
+# to the TAs.
+##############################################################################
+
+python main.py
+
+##############################################################################
+# Run this script with the command
+#
+#   ./cnn_mnist 
+
+
